@@ -13,7 +13,7 @@
 - How does this project fit into your big picture?
 - Have you ever done something like this before? If so, what?
 
-#Audience
+## Audience
 
 - Why is the site needed?
 - Who is the audience? What are the age ranges and interests of potential site visitors?
@@ -21,26 +21,25 @@
 - What are the key reasons users may have for visiting the site?
 - What should visitors of the site come away with?
 
-#Content
+## Content
 
 - What content will be needed for the site?
 - List the sections and features that will be included.
 - What already exists and what needs to be developed?
 
-#Communication
+## Communication
 
 - What should the site communicate?
 - What are the primary objectives and goals (long term and shortterm) for the site?
 
 
-#Prime numbers
+## Prime numbers
 
-List all prime numbers from m to n inclusive.
 
-Input
+# Algoritm
 
-Two integers m and n
+``List all prime numbers from m to n inclusive.
 
-Output
+Input: Two integers m and n
 
-Print the primes in ascending order, one per line. If between m and n inclusive there is no prime - print "Absent"
+Output: Print the primes in ascending order, one per line. If between m and n inclusive there is no prime - print "Absent"``
