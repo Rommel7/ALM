@@ -33,10 +33,9 @@
 - What are the primary objectives and goals (long term and shortterm) for the site?
 
 
-## Prime numbers
-
-
 # Algoritm
+
+**Prime numbers**
 
 ``List all prime numbers from m to n inclusive.``
 
