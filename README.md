@@ -33,9 +33,7 @@
 
 # Tapşırıq - Algoritm
 
-**Prime numbers**
-
-**List all prime numbers from m to n inclusive.**
+**Prime numbers** - **List all prime numbers from m to n inclusive.**
 
 ``Input: Two integers m and n``
 
