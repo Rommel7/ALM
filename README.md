@@ -35,8 +35,8 @@
 
 **Prime numbers**
 
-``List all prime numbers from m to n inclusive.``
+**List all prime numbers from m to n inclusive.**
 
-**Input: Two integers m and n**
+``Input: Two integers m and n``
 
 ``Output: Print the primes in ascending order, one per line. If between m and n inclusive there is no prime - print "Absent"``
