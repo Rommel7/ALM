@@ -1,5 +1,4 @@
-# ALM
-# Application lifecycle management
+# ALM - Application lifecycle management
 
 - What are the big-picture goals of this project?
 - What is the specific objective you need to achieve?
@@ -32,13 +31,12 @@
 - What should the site communicate?
 - What are the primary objectives and goals (long term and shortterm) for the site?
 
-
-# Algoritm
+# Tapşırıq - Algoritm
 
 **Prime numbers**
 
 ``List all prime numbers from m to n inclusive.``
 
-``Input: Two integers m and n``
+**Input: Two integers m and n**
 
 ``Output: Print the primes in ascending order, one per line. If between m and n inclusive there is no prime - print "Absent"``
